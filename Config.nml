@@ -1,0 +1,15 @@
+&Config
+   bincount= 24
+   date =  1990,12,25   
+   time = 24,0,0,0
+   population = 20.
+   area = 200.
+   avgspeed = 48
+   largeareapopulation = 70000000
+   largeareaenergyuse = 12000
+   temperature = 23
+   vehiclecount = 20344,1422,12933
+   emissionfactors = 3002,120,9203
+   figuresize = 8,6
+   areaname = "London"
+/
